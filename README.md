@@ -37,6 +37,8 @@ as you see fit.
 
 ## Core Deliverables
 
+
+
 As a user, I can:
 
 - See all ramen images in the `div` with the id of `ramen-menu`. When the page
